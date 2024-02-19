@@ -1,5 +1,17 @@
 body {
-    background-color:honeydew;
+    background-color:dimgray;
+}
+
+button {
+    width: 80px;
+    border: solid;
+    border-width: 2px;
+    color: black;
+    padding: 8px 16px;
+    text-align: center;
+    text-decoration: none;
+    background-color: white;
+    font-weight:bold;
 }
 
 #top {

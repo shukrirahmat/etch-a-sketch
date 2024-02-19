@@ -41,7 +41,7 @@ function colorGrid() {
 function addButton() {
     const topdiv = document.querySelector('#top');
     const sizebtn = document.createElement('button');
-    sizebtn.textContent = "Change Size";
+    sizebtn.textContent = "Size";
     sizebtn.addEventListener('click', changeSize);
 
     const resetbtn = document.createElement('button');
